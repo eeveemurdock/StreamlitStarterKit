@@ -1,4 +1,4 @@
-# 📦 Streamlit App Starter Kit 
+# Eevee's First Streamlit Attempt 
 ```
 ⬆️ (Replace above with your app's name)
 ```
